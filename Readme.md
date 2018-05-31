@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Ирина Матвеева](https://up.htmlacademy.ru/javascript/14/user/296123).
-* Наставник: `Неизвестно`.
+* Наставник: Лариса Клец
 
 ---
 
