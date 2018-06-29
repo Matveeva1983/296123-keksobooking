@@ -135,3 +135,4 @@ renderCard = function (ad) {
   return card;
 };
 map.insertBefore(renderCard(ads[0]), mapFiltersContainer);
+
